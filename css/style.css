@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding-top: 0;
+  box-sizing: border-box;
+}
+.tabs{
+  background-color: rgb(20, 20, 156);
+}
